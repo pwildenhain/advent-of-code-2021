@@ -5,6 +5,12 @@
 
 Save the keys to Santa's sleigh!
 
+Copy the template directory to start a new day:
+
+```sh
+$ cp -r day_xx day_01
+```
+
 Run the solution for an individual day:
 
 ```sh
