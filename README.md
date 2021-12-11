@@ -1,7 +1,7 @@
 # advent-of-code-2021
 ![CI](https://github.com/pwildenhain/advent-of-code-2021/actions/workflows/ci.yml/badge.svg)
-![](https://img.shields.io/badge/stars%20⭐-17-yellow)
-![](https://img.shields.io/badge/days%20completed-8-red)
+![](https://img.shields.io/badge/stars%20⭐-20-yellow)
+![](https://img.shields.io/badge/days%20completed-10-red)
 
 Save the keys to Santa's sleigh!
 
